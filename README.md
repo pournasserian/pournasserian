@@ -5,6 +5,15 @@ I love building open-source software and contributing to the community. My notab
 - [FluentCMS](https://github.com/fluentcms/FluentCMS): An open-source CMS built using Blazor and .NET.
 - [YeSvelte](https://github.com/yesvelte/yesvelte): An open-source UI component library for Svelte.
 
+## 🌐 Connect with Me
+Feel free to reach out or follow me on these platforms:
+
+- [LinkedIn](https://www.linkedin.com/in/pournasserian) - Let's connect professionally!
+- [GitHub](https://github.com/pournasserian) - Follow my open-source work.
+- [Twitter](https://twitter.com/pournasserian) - Thoughts on tech, life, and everything in between.
+- [Discord](https://discord.com/users/pournasserian) - `Amir Pournasserian` for a quick chat or collaboration.
+
+
 ## 📊 GitHub Stats
 ![Amir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pournasserian&show_icons=true&theme=radical)
 
