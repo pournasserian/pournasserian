@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there! 👋 I'm Amir Pournasserian
+
+## 🌱 Open Source Projects
+I love building open-source software and contributing to the community. My notable projects include:
+- [FluentCMS](https://github.com/fluentcms/FluentCMS): An open-source CMS built using Blazor and .NET.
+- [YeSvelte](https://github.com/yesvelte/yesvelte): An open-source UI component library for Svelte.
+
+## 📊 GitHub Stats
+![Amir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pournasserian&show_icons=true&theme=radical)
 
 <!--
 **pournasserian/pournasserian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
