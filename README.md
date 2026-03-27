@@ -4,6 +4,7 @@
 I love building open-source software and contributing to the community. My notable projects include:
 - [FluentCMS](https://github.com/fluentcms/FluentCMS): An open-source CMS built using Blazor and .NET.
 - [YeSvelte](https://github.com/yesvelte/yesvelte): An open-source UI component library for Svelte.
+- [Microsoft Agent Framework Samples](https://github.com/pournasserian/agent-framework-sample): Microsoft Agent Framework and Blazor Web Application built on .NET 10 that showcases 24 interactive examples.
 
 ## 🌐 Connect with Me
 Feel free to reach out or follow me on these platforms:
