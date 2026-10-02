@@ -2,17 +2,17 @@
 
 ## 🌱 Open Source Projects
 I love building open-source software and contributing to the community. My notable projects include:
-- [FluentCMS](https://github.com/fluentcms/FluentCMS): An open-source CMS built using Blazor and .NET.
-- [YeSvelte](https://github.com/yesvelte/yesvelte): An open-source UI component library for Svelte.
+- [FluentCMS](https://github.com/fluentcms/FluentCMS): An open-source CMS for .NET, built on ASP.NET Core and Blazor, that works as both a page-building CMS and a headless CMS on one API.
+- [YeSvelte](https://github.com/yesvelte/yesvelte): Svelte components whose look is a swappable theme: Tabler (Bootstrap) or daisyUI (Tailwind). Switch themes by swapping one stylesheet.
+- [uBeac](https://github.com/ubeac/api.ubeac.io): An IoT platform I founded in 2017 that turned off-the-shelf Bluetooth gateways into live building dashboards in minutes. Acquired in 2020, and now published as a reference architecture.
 - [Microsoft Agent Framework Samples](https://github.com/pournasserian/agent-framework-sample): Microsoft Agent Framework and Blazor Web Application built on .NET 10 that showcases 24 interactive examples.
 
 ## 🌐 Connect with Me
 Feel free to reach out or follow me on these platforms:
 
+- [pournasserian.com](https://pournasserian.com) - Case studies, open source and writing.
 - [LinkedIn](https://www.linkedin.com/in/pournasserian) - Let's connect professionally!
 - [GitHub](https://github.com/pournasserian) - Follow my open-source work.
-- [Twitter](https://twitter.com/pournasserian) - Thoughts on tech, life, and everything in between.
-- [Discord](https://discord.com/users/pournasserian) - `Amir Pournasserian` for a quick chat or collaboration.
 
 
 ## 📊 GitHub Stats
