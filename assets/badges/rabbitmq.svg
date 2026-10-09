@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="24" viewBox="0 0 96 24" role="img" aria-label="RabbitMQ">
+<title>RabbitMQ</title>
+<style>text{font:13px -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}.l{font-size:10.5px;font-weight:600}.b{fill:none;stroke:#d3d9e3}.f{fill:#1640ca}.s{fill:none;stroke:#1640ca;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}text{fill:#3f4b61}.l{fill:#1640ca}.m{fill:#5b677d}@media (prefers-color-scheme:dark){.b{fill:none;stroke:#253046}.f{fill:#8ca8ff}.s{fill:none;stroke:#8ca8ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}text{fill:#aab4c6}.l{fill:#8ca8ff}.m{fill:#8792a7}}</style>
+<rect class="b" x=".5" y=".5" width="95" height="23" rx="3.5"/>
+<svg class="f" x="8" y="4.5" width="15" height="15" viewBox="0 0 24 24"><path d="M23.035 9.601h-7.677a.956.956 0 01-.962-.962V.962a.956.956 0 00-.962-.956H10.56a.956.956 0 00-.962.956V8.64a.956.956 0 01-.962.962H5.762a.956.956 0 01-.961-.962V.962A.956.956 0 003.839 0H.959a.956.956 0 00-.956.962v22.076A.956.956 0 00.965 24h22.07a.956.956 0 00.962-.962V10.58a.956.956 0 00-.962-.98zm-3.86 8.152a1.437 1.437 0 01-1.437 1.443h-1.924a1.437 1.437 0 01-1.436-1.443v-1.917a1.437 1.437 0 011.436-1.443h1.924a1.437 1.437 0 011.437 1.443z"/></svg>
+<text x="29.0" y="16.6" textLength="58.6" lengthAdjust="spacingAndGlyphs">RabbitMQ</text>
+</svg>

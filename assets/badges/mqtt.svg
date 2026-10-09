@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="73" height="24" viewBox="0 0 73 24" role="img" aria-label="MQTT">
+<title>MQTT</title>
+<style>text{font:13px -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}.l{font-size:10.5px;font-weight:600}.b{fill:none;stroke:#d3d9e3}.f{fill:#1640ca}.s{fill:none;stroke:#1640ca;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}text{fill:#3f4b61}.l{fill:#1640ca}.m{fill:#5b677d}@media (prefers-color-scheme:dark){.b{fill:none;stroke:#253046}.f{fill:#8ca8ff}.s{fill:none;stroke:#8ca8ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}text{fill:#aab4c6}.l{fill:#8ca8ff}.m{fill:#8792a7}}</style>
+<rect class="b" x=".5" y=".5" width="72" height="23" rx="3.5"/>
+<svg class="f" x="8" y="4.5" width="15" height="15" viewBox="0 0 24 24"><path d="M10.657 23.994h-9.45A1.212 1.212 0 0 1 0 22.788v-9.18h.071c5.784 0 10.504 4.65 10.586 10.386Zm7.606 0h-4.045C14.135 16.246 7.795 9.977 0 9.942V6.038h.071c9.983 0 18.121 8.044 18.192 17.956Zm4.53 0h-.97C21.754 12.071 11.995 2.407 0 2.372v-1.16C0 .55.544.006 1.207.006h7.64C15.733 2.49 21.257 7.789 24 14.508v8.291c0 .663-.544 1.195-1.207 1.195ZM16.713.006h6.092A1.19 1.19 0 0 1 24 1.2v5.914c-.91-1.242-2.046-2.65-3.158-3.762C19.588 2.11 18.122.987 16.714.005Z"/></svg>
+<text x="29.0" y="16.6" textLength="35.9" lengthAdjust="spacingAndGlyphs">MQTT</text>
+</svg>
